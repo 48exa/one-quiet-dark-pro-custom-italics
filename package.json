@@ -2,11 +2,11 @@
   "name": "one-quiet-dark-pro-custom-italics",
   "displayName": "One Quiet Dark Pro Custom Italics",
   "description": "Fork of the One Quiet Dark Pro theme with added italics :)",
-  "version": "0.3.0",
+  "version": "2.0.1",
   "publisher": "48exa",
   "icon": "images/icon.png",
   "repository": {
-		"url": "https://github.com/48exa/one-quiet-dark-pro-custom-italics"
+    "url": "https://github.com/48exa/one-quiet-dark-pro-custom-italics"
   },
   "engines": {
     "vscode": "^1.76.0"
